@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Ovos",
+        "quantidade": 12.0,
+        "preco": 0.5
+    },
+    {
+        "nome": "Maca",
+        "quantidade": 150.0,
+        "preco": 0.89
+    },
+    {
+        "nome": "Macarrao",
+        "quantidade": 15.0,
+        "preco": 1.99
+    },
+    {
+        "nome": "Arroz",
+        "quantidade": 7.0,
+        "preco": 10.99
+    }
+]
